@@ -6,3 +6,4 @@ Requirements • Your clients should be able to order pizzas from the menu • T
 
 • Deployment of the application: Heroku
 • Free mysql db host (https://remotemysql.com/)
+This only serves as a backend to provide API for storing data from frontend.
